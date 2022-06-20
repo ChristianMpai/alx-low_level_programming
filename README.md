@@ -1,1 +1,1 @@
-new readme for pointers, arrays and strings project
+New readme
